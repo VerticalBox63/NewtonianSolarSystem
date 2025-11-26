@@ -1,4 +1,4 @@
-#Newtonian Gravity Simulations
+# Newtonian Gravity Simulations
 
 Simulations are carried out using the Runge-Kutta Fourth Order method to estimate the position of planets with n-bodies acting on them. 
 

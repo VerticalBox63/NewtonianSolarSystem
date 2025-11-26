@@ -138,7 +138,6 @@ while running and solar:
 
 
 
-
 dt = 24*60*60*10
 while running and Sandbox:
     # poll for events
